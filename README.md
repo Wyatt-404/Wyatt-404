@@ -1,7 +1,7 @@
 
 <h1 align="center">𝑯𝒊, 𝑰'𝒎<a href="https://alili.tech/">{𝑭.𝑨.𝑵}</a>!</h1>
 <h1 align="center">𝒂 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓  </h1>
-
+**_Hi, 𝑰'𝒎_**
 
 <p align="center">
   <strong><a href="https://alili.tech">𝑩𝒍𝒐𝒈</a></strong> |
