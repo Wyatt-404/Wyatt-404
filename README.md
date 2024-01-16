@@ -7,20 +7,6 @@
  - 👨🏻‍💻 <strong><a href="https://okjk.co/9PgdtW">即刻</a></strong> |
  - 👨🏻‍💻 <strong><a href="https://www.huixinglaile.com/about/">关于</a></strong>  
 
-<a href="https://alili.tech"><p align="center">𝑽𝒊𝒔𝒊𝒕𝒐𝒓 𝒄𝒐𝒖𝒏𝒕<br> <img src="https://profile-counter.glitch.me/Fantasy9527/count.svg" /></a>
-
-##  [𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝑻𝒐 𝑯𝒆𝒓𝒆](https://alili.tech)
-
-- 👨🏻‍💻  [𝑴𝒊𝒄𝒓𝒐 𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅](https://alili.tech/tags/microfrontend/)
-- 👩🏻‍💻  [𝑻𝒂𝒓𝒐](https://alili.tech/tags/taro/)
-- 👨🏻‍💻  [𝑹𝒂𝒔𝒑𝒃𝒆𝒓𝒓𝒚 𝑷𝒊](https://alili.tech/tags/raspberry-pi/)
-- 👩🏻‍💻  [𝑵𝒐𝒅𝒆𝒋𝒔](https://alili.tech/tags/nodejs/)
-- 👨🏻‍💻  [𝑪𝑰&𝑪𝑫](https://alili.tech/tags/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/)
-- 👩🏻‍💻  [𝑴𝒂𝒕𝒉](https://alili.tech/tags/%E6%95%B0%E5%AD%A6/)
-- 👨🏻‍💻  [𝑷𝒖𝒑𝒑𝒆𝒕𝒆𝒆𝒓](https://alili.tech/tags/puppeteer/)
-- 👩🏻‍💻  [𝑱𝒂𝒗𝒂𝒔𝒄𝒓𝒊𝒑𝒕](https://alili.tech/tags/javascript/)
-- 👨🏻‍💻  [𝑴𝒂𝒄 𝑶𝑺](https://alili.tech/tags/mac/)
-- 👩🏻‍💻  [𝑨𝒏𝒈𝒖𝒍𝒂𝒓](https://alili.tech/tags/angular/)
 
 
 ## 𝑴𝒚 𝑻𝒆𝒄𝒌 𝑺𝒕𝒂𝒄𝒌
@@ -59,14 +45,6 @@
 <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-
-
-## 𝑺𝒕𝒂𝒕𝒔
-
-<p align="left">
-
-<img alt="ouuan's github stats" height='230' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wyatt-404">
-</p>
 
 ****
 
