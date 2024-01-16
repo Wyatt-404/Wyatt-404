@@ -2,7 +2,7 @@
 <h1 align="center"><a href="https://www.huixinglaile.com/">𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝑻𝒐 𝑯𝒆𝒓𝒆</a> ！</h1>
 <h1 align="center">𝒂 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓</h1>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" />
+<a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
  - 👨🏻‍💻 <strong><a href="https://www.huixinglaile.com">Blog</a></strong> |
  - 👨🏻‍💻 <strong><a href="https://okjk.co/9PgdtW">即刻</a></strong> |
  - 👨🏻‍💻 <strong><a href="https://www.huixinglaile.com/about/">关于</a></strong>  
@@ -10,7 +10,7 @@
 <a href="https://alili.tech"><p align="center">𝑽𝒊𝒔𝒊𝒕𝒐𝒓 𝒄𝒐𝒖𝒏𝒕<br> <img src="https://profile-counter.glitch.me/Fantasy9527/count.svg" /></a>
 
 ##  [𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝑻𝒐 𝑯𝒆𝒓𝒆](https://alili.tech)
-<a href="https://alili.tech"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="275" /></a>
+
 - 👨🏻‍💻  [𝑴𝒊𝒄𝒓𝒐 𝑭𝒓𝒐𝒏𝒕𝒆𝒏𝒅](https://alili.tech/tags/microfrontend/)
 - 👩🏻‍💻  [𝑻𝒂𝒓𝒐](https://alili.tech/tags/taro/)
 - 👨🏻‍💻  [𝑹𝒂𝒔𝒑𝒃𝒆𝒓𝒓𝒚 𝑷𝒊](https://alili.tech/tags/raspberry-pi/)
